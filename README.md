@@ -26,10 +26,4 @@ Format:
         <costUsd>213</costUsd>
         <costPln>0</costPln>
     </komputer>
-    <komputer>
-        <date>2022-12-20</date>
-        <name>kompu</name>
-        <costUsd>213</costUsd>
-        <costPln>0</costPln>
-    </komputer>
 </faktura>
