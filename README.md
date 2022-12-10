@@ -13,7 +13,7 @@ Add the computer to the database, then the server fills in the field of the purc
 
 Format:
 
-<faktura>
+'<faktura>
     <komputer>
         <date>2022-12-20</date>
         <name>kompu</name>
@@ -26,4 +26,4 @@ Format:
         <costUsd>213</costUsd>
         <costPln>0</costPln>
     </komputer>
-</faktura>
+</faktura>'
